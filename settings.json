@@ -3,6 +3,7 @@
     "workbench.activityBar.visible": false,
     "workbench.statusBar.visible": true,
     "workbench.enableExperiments": false,
+    "workbench.startupEditor": "newUntitledFile",
     "editor.fontFamily": "Menlo",
     "editor.renderWhitespace": "none",
     "editor.minimap.enabled": false,
